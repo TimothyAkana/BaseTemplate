@@ -1,10 +1,34 @@
 # Project Name
+Project description goes here...
+
+## Setup
+
+Clone the repo:
+
+```
+$ git clone https://github.com/TimothyAkana/BaseTemplate.git <PROJECT NAME>
+```
+
+Go into the directory:
+
+```
+$ cd <DIRECTORY>
+```
+
+Install the dependences:
+
+```
+$ npm install
+```
 
 ## Usage
-To start simple localhost server:
 
-npm install
+Once you're all setup, you will just need to build and start the app.
 
-npm run build-dev
+```
+npm build
+```
 
-npm run start-dev
+```
+npm start
+```
