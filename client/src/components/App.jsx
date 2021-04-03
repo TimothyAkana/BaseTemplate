@@ -6,5 +6,3 @@ export default function App(props) {
     <div>Hello World!</div>
   )
 }
-
-export default App;
